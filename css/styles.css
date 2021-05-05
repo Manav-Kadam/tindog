@@ -1,0 +1,176 @@
+p {
+  color: #8f8f8f;
+}
+
+#title {
+  background-color: #ff4c68;
+}
+
+.container-fluid {
+  padding: 6% 15% 6%;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-bottom: 7%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 12px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat-Light', sans-serif;
+}
+
+.google {
+  margin-top: 5% 3% 5% 0;
+}
+
+.iphone {
+  width: 60%;
+  transform: rotate(25deg);
+  z-index: 1;
+  position:absolute;
+  right: 30%;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  }
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-size: 3rem;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 2;
+  bottom: 20%;
+}
+
+.designing {
+  text-align: center;
+  padding: 5%;
+}
+
+.fas {
+  color: #ef8172;
+  margin: 1rem;
+}
+
+.fas:hover {
+  color: #ff4c68;
+}
+
+#testimonials {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.dog {
+  width: 15%;
+  border-radius: 100%;
+  margin: 3%;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%
+}
+
+.company {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+#pricing
+{
+  padding: 100px;
+  text-align: center;
+}
+.column
+{
+  padding: 3% 2%;
+}
+.jaruri
+{
+
+  padding-bottom: 50px;
+}
+@media ( max-width:1028px)
+  {
+    #title
+    {
+      text-align: center;
+    }
+    .iphone
+    {
+      text-align: center;
+    position: static;
+    transform: rotate(0deg);
+    }
+    .jaruri
+    {
+      text-align: center;
+    }
+  }
+  #cta
+{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 5%
+}
+.aakhri
+{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-size: 4rem;
+  color: #fff;
+  padding: 2% 14% 2% 14%;
+}
+.look
+{
+  margin: 2%
+}
+#footer
+{
+text-align:center;
+padding: 7% 15%;
+line-height: 2;
+}
+.copy
+{
+  font-size: 1rem;
+  color: gray;
+}
+.social
+{
+  margin: 0;;
+  padding: 1%;
+  color: black;
+}
